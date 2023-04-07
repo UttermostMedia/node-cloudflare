@@ -32,6 +32,7 @@ const resources = {
   user: require('./lib/resources/User'),
   userTokens: require('./lib/resources/UserTokens'),
   stream: require('./lib/resources/Stream'),
+  rulesets: require('./lib/resources/Rulesets'),
 };
 /* eslint-enable global-require */
 
